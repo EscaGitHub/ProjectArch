@@ -6,12 +6,14 @@
 
     <ItemGroup>
       <Folder Include="Configuration\Jobs" />
-      <Folder Include="Infrastrucutre\Ext\ExternalInfrastructureName\Client" />
-      <Folder Include="Infrastrucutre\Ext\ExternalInfrastructureName\Service\Mappings" />
-      <Folder Include="Infrastrucutre\Ext\ExternalInfrastructureName\Service\Models" />
-      <Folder Include="Infrastrucutre\Int\InternalSubSystemName" />
+      <Folder Include="Infrastrucutre\External\ExternalInfrastructureName\Client" />
+      <Folder Include="Infrastrucutre\External\ExternalInfrastructureName\Service\Mappings" />
+      <Folder Include="Infrastrucutre\External\ExternalInfrastructureName\Service\Models" />
+      <Folder Include="Infrastrucutre\Internal\InternalSubSystemName" />
       <Folder Include="Infrastrucutre\Pipeline" />
       <Folder Include="Processes\ProcessSectionName\ProcessName" />
+      <Folder Include="Processes\v3" />
+      <Folder Include="WebApi\WebApiName\v3\ApiControllerName\Common" />
       <Folder Include="WebApi\WebApiName\v4" />
     </ItemGroup>
 
