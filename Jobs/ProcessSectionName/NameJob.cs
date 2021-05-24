@@ -1,4 +1,4 @@
-﻿namespace Application.Jobs.ProcessSectionName
+﻿namespace Jobs.ProcessSectionName
 {
     public class NameJob
     {

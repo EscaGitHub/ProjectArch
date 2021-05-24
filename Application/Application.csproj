@@ -13,8 +13,6 @@
       <Folder Include="Infrastrucutre\Pipeline" />
       <Folder Include="Processes\ProcessSectionName\ProcessName" />
       <Folder Include="Processes\v3" />
-      <Folder Include="WebApi\WebApiName\v3\ApiControllerName\Common" />
-      <Folder Include="WebApi\WebApiName\v4" />
     </ItemGroup>
 
 </Project>
