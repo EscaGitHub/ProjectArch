@@ -4,4 +4,12 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="v4\ApiControllerName\Commands\CommandName\Mappings" />
+      <Folder Include="v4\ApiControllerName\Commands\CommandName\Models" />
+      <Folder Include="v4\ApiControllerName\Commands\CommandName\Validators" />
+      <Folder Include="v4\ApiControllerName\Common" />
+      <Folder Include="v4\ApiControllerName\Queries" />
+    </ItemGroup>
+
 </Project>

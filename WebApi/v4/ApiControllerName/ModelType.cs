@@ -1,4 +1,4 @@
-﻿namespace WebApi.v3.ApiControllerName
+﻿namespace WebApi.v4.ApiControllerName
 {
     public enum ModelType
     {
